@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "883ededb5d38b3b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b72ee6aaa39bd10d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "222cd9fd574bbbc5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Text Docs Sources/creations/Enemy/Ass Knight.png"
+              },
+              "icon": "lucide-image",
+              "title": "Ass Knight"
+            }
+          },
+          {
+            "id": "5094197eca284976",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Text Docs Sources/Excal/Enemy/Av Knight.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Av Knight"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "052d74a8cc2b0fc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f97607e99120e794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45a3a5b5c9005cfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c26ad22c4051d75f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "59953b50048a6aea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78b5ca3b8553a735",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f20b4f736735e8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5830e3095850c44e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Text Docs Sources/creations/Enemy/Ass Knight.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ass Knight"
+            }
+          },
+          {
+            "id": "00a1fb6d665ee093",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Text Docs Sources/creations/Enemy/Ass Knight.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ass Knight"
+            }
+          },
+          {
+            "id": "73d22e5320fb5177",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a0f007b9d7db3f59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Text Docs Sources/creations/Enemy/Ass Knight.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ass Knight"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "222cd9fd574bbbc5",
+  "lastOpenFiles": [
+    "Text Docs Sources/Excal/Keyboard scheme.md",
+    "GDD.md",
+    "Av Knight..md",
+    "Text Docs Sources/Excal/Enemy/Av Knight.md",
+    "Text Docs Sources/creations/Enemy/Av Knight.png",
+    "Text Docs Sources/Excal/Enemy/High Knight.md",
+    "Text Docs Sources/creations/Enemy/High Knight 1.png",
+    "Text Docs Sources/creations/Enemy/Av Knight.png",
+    "Text Docs Sources/creations/Enemy/Big Knight.png",
+    "Text Docs Sources/creations/Enemy/High Knight.png",
+    "Excalidraw/Drawing 2025-02-28 12.41.51.excalidraw.png",
+    "Text Docs Sources/Excal/Enemy/Ass Knight.md",
+    "Text Docs Sources/Excal/Stats/R.md",
+    "Text Docs Sources/Excal/Stats/M.md",
+    "Text Docs Sources/Excal/Stats/AS.md",
+    "Text Docs Sources/Excal/Stats/HP.md",
+    "Text Docs Sources/Excal/Stats/AR.md",
+    "Text Docs Sources/Excal/Stats/AD.md",
+    "Text Docs Sources/Excal/Stats",
+    "Text Docs Sources/Excal/Enemy/Big Knight.md",
+    "Text Docs Sources/Excal/Enemy",
+    "Text Docs Sources/Excal",
+    "2025-02-28.md",
+    "Excalidraw",
+    "Text Docs Sources/obr/20139707.jpg",
+    "Text Docs Sources/obr/keyboard 1.png",
+    "Text Docs Sources/creations/Keyboard scheme.png"
+  ]
+}
