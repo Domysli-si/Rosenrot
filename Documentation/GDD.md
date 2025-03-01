@@ -3,7 +3,7 @@
 
 :LiCalendar: Date : 2025-02-26
 :LiClock: Time : 18:36
-:LiArrowLeftSquare: Return : [[-Welcome entrance]]
+:LiArrowLeftSquare: Return :
 :LiGlobe: Sources : 
 :LiLink: List of links : 
 
@@ -89,7 +89,7 @@ Datum: 20. února 2025
 
 |      | ![[Big Knight.png]] | ![[Ass Knight.png]] | ![[High Knight.png]] | ![[Av Knight.png]] |
 | ---- | ------------------- | ------------------- | -------------------- | ------------------ |
-| Name | Chonky Knight       | Assassin Knight     | High Knight          | Ave. Knight        |
+| Name | Chonky Knight       | Ass Knight          | High Knight          | Ave. Knight        |
 | ad   |                     |                     |                      |                    |
 | as   |                     |                     |                      |                    |
 | hp   |                     |                     |                      |                    |
@@ -110,7 +110,6 @@ Datum: 20. února 2025
 ## 4 Level design
 ### 4.1 Struktura úrovní 
 
-
 ### 4.2 Prostředí
 
 ### 4.3 Dynamika úrovní
@@ -124,23 +123,17 @@ Datum: 20. února 2025
 ## 6 UI a UX
 ### 6.1 Hlavní menu a rozhraní
 
-
 ### 6.2 Ovládání hry
 ![[Keyboard scheme]]
 
-
-
-
-
 ## 7 Casoprostor
 ### 7.1 Cas
-- Neni podstatna. Neni ani blize specifikovana. 
+- Neni podstatne. Neni ani blize specifikovan. 
 ### 7.2 Prostor
-- Fantaskni svet plny magie. Stredoveka tematika 
+- Fantaskni svet plny magie. Stredoveka tematika.
 ### 7.3 Shrnuti pribehu
 - Zije mladik(hracova postava) a jeho slecna v jedne malebne vesnici. Po najezdu je smrtelne zranena. Mladik se tedy vydava na cestu za Rudou ruzi. On niz se vypravi, ze ma nesmerne lecive ucinky. Zaroven vsak se chce pomstit najezdnikum. Jedine voditko, ktere ma je zahady rudy plyn. 
 - Neni jediny kdo prahne po Rude ruzi.
-
 ### 7.4 Postavy 
 - Mladik 
 - milovana 

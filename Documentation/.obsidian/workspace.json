@@ -11,12 +11,14 @@
             "id": "222cd9fd574bbbc5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Text Docs Sources/creations/Enemy/Ass Knight.png"
+                "file": "GDD.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Ass Knight"
+              "icon": "lucide-file",
+              "title": "GDD"
             }
           },
           {
@@ -181,8 +183,11 @@
   },
   "active": "222cd9fd574bbbc5",
   "lastOpenFiles": [
-    "Text Docs Sources/Excal/Keyboard scheme.md",
+    "Text Docs Sources/creations/Stats/AS.png",
     "GDD.md",
+    "Text Docs Sources/Excal/Keyboard scheme.md",
+    "Text Docs Sources/creations/Keyboard scheme.png",
+    "Text Docs Sources/creations/Enemy/Ass Knight.png",
     "Av Knight..md",
     "Text Docs Sources/Excal/Enemy/Av Knight.md",
     "Text Docs Sources/creations/Enemy/Av Knight.png",
@@ -206,7 +211,6 @@
     "2025-02-28.md",
     "Excalidraw",
     "Text Docs Sources/obr/20139707.jpg",
-    "Text Docs Sources/obr/keyboard 1.png",
-    "Text Docs Sources/creations/Keyboard scheme.png"
+    "Text Docs Sources/obr/keyboard 1.png"
   ]
 }
